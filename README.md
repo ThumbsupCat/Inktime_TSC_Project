@@ -24,7 +24,7 @@ USB-C și un regulator buck-boost **RT6160** care menține 3.3V stabil
 pe toată gama de descărcare a bateriei.
 
 ## Schema Bloc
-![Block Diagram](images/block_diagram.png)
+![Block Diagram](Images/inktime_block_diagram_v5.svg)
 
 ## Bill of Materials
 | Ref | Component | Package | Funcție | LCSC | Datasheet |
